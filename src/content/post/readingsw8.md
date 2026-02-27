@@ -22,7 +22,7 @@ Optional additional reading: The [Special Competitive Studies Project](https://w
  
 ### Readings for Thursday, 12 March
 
-- Ashley Deeks, [_State responsibility for AI mistakes in the resort to force_]. Cambridge University Press, January 2026. [[PDF](/docs/deeks2026.pdf)] [[Web Link](https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/state-responsibility-for-ai-mistakes-in-the-resort-to-force/24B4A9DB743A53BCABBA67E536E9C24E)]
+- Ashley Deeks, _State responsibility for AI mistakes in the resort to force_. Cambridge University Press, January 2026. [[PDF](/docs/deeks2026.pdf)] [[Web Link](https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/state-responsibility-for-ai-mistakes-in-the-resort-to-force/24B4A9DB743A53BCABBA67E536E9C24E)]
 
 - John von Neumann, [_Can we Survive Technology?_](/docs/vonNeumann1955.pdf), Fortune Magazine, 1955. (John von Neumann wrote this while he was a member of the US Atomic Energy Commission. If you're not familiar with von Neumann or think "inventing" the "von Neumann architecture" is among the most important things he did, you should at least skim his [Wikipedia Page](https://en.wikipedia.org/wiki/John_von_Neumann).)
 
