@@ -11,7 +11,7 @@ slug = "weekof16mar"
 
 - Remember that your project update is due today, **Monday 16 March**, by **8:59pm**: [Project Update Canvas Link](https://canvas.its.virginia.edu/courses/161890/assignments/868296) 
 
-- For teams assigned to **News** (1) or **Lead** (6&ndash;7)this week, please remember to follow the revised guidelines and schedule (see [March 10 post](/tablemap-10mar/)).
+- For teams assigned to **News** (1) or **Lead** (6&ndash;7) this week, please remember to follow the revised guidelines and schedule (see [March 10 post](/tablemap-10mar/)).
 
 - I will be away this Friday (20 March) and next Friday (27 March), and not able to hold my usual office hours those days. Please use [https://davidevans.youcanbookme.com/](https://davidevans.youcanbookme.com/) to schedule an alternate time to meet with me.
 
