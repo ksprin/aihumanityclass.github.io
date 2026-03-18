@@ -64,8 +64,8 @@ Another question considered whether AI should ever be allowed to authorize letha
 - Source: autonomous weapons and AI-enabled warfare, 2026
 
 Sources:
--	Fleming, N. (2025, October 29). Why we should limit the autonomy of AI-enabled weapons. Nature. https://www.nature.com/articles/d41586-025-03357-1
--	National Security Commission on Artificial Intelligence. (2021). Autonomous weapon systems and risks associated with AI-enabled warfare (Chapter 4). In Final report. https://reports.nscai.gov/final-report/chapter-4
+-	Fleming, N. (2025, October 29). Why we should limit the autonomy of AI-enabled weapons. Nature. [https://www.nature.com/articles/d41586-025-03357-1](https://www.nature.com/articles/d41586-025-03357-1)
+-	National Security Commission on Artificial Intelligence. (2021). Autonomous weapon systems and risks associated with AI-enabled warfare (Chapter 4). In Final report. [https://reports.nscai.gov/final-report/chapter-4](https://reports.nscai.gov/final-report/chapter-4)
 -	[Team 4, autonomous weapons and AI-enabled warfare, 2026]((https://docs.google.com/presentation/d/1tnCTGD3lynS7ujK0y7mtYlHJ4T4OAuPqjYyU2hVU63o/edit?usp=sharing))
 
 Additional Sources:
