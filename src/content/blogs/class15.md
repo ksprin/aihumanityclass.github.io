@@ -1,5 +1,5 @@
 +++
-date = "12 Mar 2026"
+date = "22 Mar 2026"
 draft = false
 title = "Class 15: Can We Survive Technology?"
 author = "Team 9"
